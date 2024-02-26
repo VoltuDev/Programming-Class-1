@@ -19,6 +19,6 @@ else {
 btnUpdateProfile.addEventListener("click", () => {
     profileImage.src = "images/image4.jpg"; 
     firstNameSpan.innerHTML = "King Kong";
-    ageSpan.innerHTML = 17;
+    ageSpan.innerHTML = 91;
     statusSpan.innerHTML = "Ape";
 });
